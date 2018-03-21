@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Oct 08 18:16:25 IST 2017
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Kevalx\\.m2\\repository\\org\\springframework\\spring-web\\4.3.2.RELEASE\\spring-web-4.3.2.RELEASE.jar=WEB-INF/lib/spring-web-4.3.2.RELEASE.jar
+org.eclipse.jst.j2ee.server\:project_backend=WEB-INF/lib/project_backend-0.0.1-SNAPSHOT.jar

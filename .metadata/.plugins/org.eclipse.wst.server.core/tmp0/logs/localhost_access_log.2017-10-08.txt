@@ -1,0 +1,7 @@
+127.0.0.1 - - [08/Oct/2017:18:16:44 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/ HTTP/1.1" 200 9807
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/resources/images/lg-g6.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/resources/images/whitebackground.jpg HTTP/1.1" 200 257382
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/resources/images/oneplus5.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/resources/images/iphone%207%20plus.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Oct/2017:18:16:48 +0530] "GET /project_frontend/resources/images/galaxys8.jpg HTTP/1.1" 304 -

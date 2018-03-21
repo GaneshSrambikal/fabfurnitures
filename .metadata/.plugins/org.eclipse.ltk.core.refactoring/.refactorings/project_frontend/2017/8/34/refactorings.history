@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;project_frontend/src/main/webapp/WEB-INF/views/FAQ.jsp&apos; to &apos;TermsConditions.jsp&apos;" description="Rename resource &apos;FAQ.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/FAQ.jsp" name="TermsConditions.jsp" stamp="1503490029536" updateReferences="true"/>
+</session>
